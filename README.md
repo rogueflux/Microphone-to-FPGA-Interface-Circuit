@@ -1,5 +1,4 @@
-# Microphone-to-FPGA Interface Circuit – Readme
-
+# Microphone-to-FPGA Interface Circuit
 ## Project Overview  
 This project provides a complete hardware and firmware design for a **three-channel microphone interface circuit** that conditions, amplifies, and digitizes analog audio signals from dynamic lapel microphones. The digitized data is transmitted via SPI to an FPGA or microcontroller for real-time audio processing.
 
