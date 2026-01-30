@@ -138,7 +138,7 @@ See the main document for full references to datasheets, textbooks, and applicat
 ---
 
 ## License & Attribution  
-This design is documented for educational and prototyping purposes. Please attribute the original authors when referencing this work.
+This project is licensed under the CERN Open Hardware Licence Version 2-S License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
